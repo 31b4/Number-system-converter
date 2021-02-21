@@ -65,7 +65,6 @@ namespace _10_to_2_szamrendszer_converter
                 }
                 Console.Clear();
             } while (ih);
-            
         }
     }
 }
