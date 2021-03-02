@@ -1,2 +1,2 @@
 # Number-system-converter
-Beta
+Beta - in console
