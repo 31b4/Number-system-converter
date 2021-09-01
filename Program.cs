@@ -16,11 +16,7 @@ namespace _10_to_2_szamrendszer_converter
                 Console.Write("Kérek egy számot: ");
                 int szam = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Milyen számrendszerbe váltsam? ");
-                int szamrendszer = Convert.ToInt32(Console.ReadLine());
-                
-                
-                
-                     
+                int szamrendszer = Convert.ToInt32(Console.ReadLine());   
                 if (szamrendszer<=16 && szamrendszer>1)
                 {
                     int maradek;
